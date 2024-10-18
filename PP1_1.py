@@ -6,7 +6,7 @@ def q2():
 def q3():
   #Write Assignment code here
 
-def q4:
+def q4():
   #Write Assignment code here
 
 q1()
